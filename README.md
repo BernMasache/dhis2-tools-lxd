@@ -24,7 +24,7 @@ process.
 
 ## The install:
 
-The steps outined below will take a bare server which is accessible to the internet via a public IP, and configure all the infrastructure required to create and maintain DHIS2 instances.
+The steps outlined below will take a bare server which is accessible to the internet via a public IP, and configure all the infrastructure required to create and maintain DHIS2 instances.
 
 1.  grab the install scripts from github:  `git clone https://github.com/bobjolliffe/dhis2-tools-ng.git`
 
